@@ -3,18 +3,18 @@ h1 {
   text-align: right;
 }
 
-#contact-info {
+.contact-info {
   text-align: right;
 }
   
-#contact-info li {
+.contact-info li {
   display: inline-block;
 }
 
-#contact-info li:after { 
+.contact-info li:after { 
   content: "\0025cf"; 
 }
 
-#contact-info li:last-child:after { 
+.contact-info li:last-child:after { 
   content: none; 
 }
