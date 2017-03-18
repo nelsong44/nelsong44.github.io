@@ -1,8 +1,12 @@
-.container {
-  border:2px solid #BDBDBD;
+#body-container {
+  border:2px solid #bdbdbd;
   border-radius: 25px;
   margin: 100px;
   padding: 100px;
+}
+
+#intro-container {
+  background-color: #f5f5f5;
 }
 
 h1 {
