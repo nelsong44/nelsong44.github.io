@@ -5,3 +5,6 @@ p {
 #section-title {
   color: blue;
 }
+#contact-info {
+  display: inline-block;
+}
