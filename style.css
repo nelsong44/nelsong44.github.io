@@ -18,3 +18,7 @@ h1 {
 .contact-info li:last-child:after { 
   content: none; 
 }
+
+.date {
+  float: right;
+}
