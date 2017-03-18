@@ -28,3 +28,7 @@ h1 {
 .date {
   float: right;
 }
+
+.section-title {
+  margin-top: 10px;
+}
