@@ -37,6 +37,7 @@ h1 {
 
 .date {
   float: right;
+  position: absolute;
 }
 
 .section-title {
