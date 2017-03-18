@@ -1,5 +1,7 @@
 .container {
-  border: 3px solid gray round;
+  border-width:2px;
+  border-style:solid;
+  border-color:#BDBDBD;
   border-radius: 25px;
 }
 
