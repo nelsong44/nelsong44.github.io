@@ -5,7 +5,7 @@ p {
 #section-title {
   color: blue;
 }
-#contact-info {
+#contact-info ul {
   display: inline;
   list-style-type: none;
 }
