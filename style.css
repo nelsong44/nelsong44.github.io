@@ -1,8 +1,7 @@
 .container {
-  border-width:2px;
-  border-style:solid;
-  border-color:#BDBDBD;
+  border:2px solid #BDBDBD;
   border-radius: 25px;
+  padding: 100px;
 }
 
 h1 {
