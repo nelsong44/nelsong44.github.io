@@ -11,7 +11,7 @@ p {
 }
 
 #contact-info li:after { 
-  content: " \00b7"; 
+  content: " \u2b24"; 
 }
 
 #contact-info li:last-child:after { 
