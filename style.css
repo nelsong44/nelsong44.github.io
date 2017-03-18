@@ -6,6 +6,6 @@ p {
   color: blue;
 }
 
-#contact-info li {
+#contact-info ul li {
   display: inline-block;
 }
