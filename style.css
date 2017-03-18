@@ -5,6 +5,12 @@ p {
 #section-title {
   color: blue;
 }
+
+#contact-info ul {
+  margin: 0px;
+  padding: 0px;
+}
+
 #contact-info ul li {
   display: inline;
 }
