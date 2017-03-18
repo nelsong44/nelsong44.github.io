@@ -6,6 +6,10 @@ p {
   color: blue;
 }
 
+#contact-info {
+  text-align: right;
+}
+  
 #contact-info li {
   display: inline-block;
 }
