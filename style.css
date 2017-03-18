@@ -7,4 +7,5 @@ p {
 }
 #contact-info {
   display: inline;
+  list-style-type: none;
 }
