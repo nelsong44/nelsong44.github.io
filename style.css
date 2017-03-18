@@ -2,8 +2,8 @@ p {
   color: red;
 }
 
-#section-title {
-  color: blue;
+h1 {
+  text-align: right;
 }
 
 #contact-info {
