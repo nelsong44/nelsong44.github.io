@@ -21,8 +21,12 @@ h1 {
   display: inline-block;
 }
 
+.contact-info li:before {
+  content: "\0020";
+}
+
 .contact-info li:after { 
-  content: "\0025cf"; 
+  content: "\0025cf" "\0020";  
 }
 
 .contact-info li:last-child:after { 
