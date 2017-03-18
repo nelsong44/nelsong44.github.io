@@ -20,5 +20,5 @@ h1 {
 }
 
 .date {
-  text-align: right;
+  float: right;
 }
