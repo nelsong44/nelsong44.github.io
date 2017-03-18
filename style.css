@@ -10,10 +10,10 @@ p {
   display: inline-block;
 }
 
-#contact-info ul li:after { 
+#contact-info li:after { 
   content: " \00b7"; 
 }
 
-#contact-info ul li:last-child:after { 
+#contact-info li:last-child:after { 
   content: none; 
 }
