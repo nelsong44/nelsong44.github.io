@@ -1,12 +1,15 @@
- #site { 
-  background-color: #f7f7f7;
-  overflow-x: hidden; 
+body {
+ background-color: #f7f7f7;
 }
+
+#wrapper {
+  background: none repeat scroll 0 0 #FFFFFF;
+  margin: 0 auto;
+ }
 
 #body-container {
   border:2px solid #bdbdbd;
   border-radius: 25px;
-  margin: 0 10%;
   padding: 50px;
 }
 
