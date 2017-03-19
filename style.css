@@ -47,6 +47,10 @@ h1 {
   content: none; 
 }
 
+p ul {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
 .date {
   float: right;
 }
