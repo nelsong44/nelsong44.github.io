@@ -48,7 +48,7 @@ h1 {
   content: none; 
 }
 
-ul p {
+li, p {
   font-family: Arial, Helvetica, sans-serif;
 }
 
