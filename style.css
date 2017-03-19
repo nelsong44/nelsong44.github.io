@@ -11,6 +11,10 @@
   padding: 10px 10px 20px 10px;
 }
 
+img {
+  float: left;
+}
+
 h1 {
   text-align: right;
   font-family: "Arial Black", Gadget, sans-serif;
