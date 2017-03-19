@@ -19,6 +19,7 @@ body {
 
 img {
   float: left;
+  border-radius: 45px;
 }
 
 h1 {
@@ -47,7 +48,7 @@ h1 {
   content: none; 
 }
 
-p li {
+p {
   font-family: Arial, Helvetica, sans-serif;
 }
 
