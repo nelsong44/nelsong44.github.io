@@ -1,5 +1,6 @@
  #site { 
-   overflow-x: hidden; 
+  background-color: #f7f7f7;
+  overflow-x: hidden; 
 }
 
 #body-container {
@@ -7,7 +8,6 @@
   border-radius: 25px;
   margin: 0 10%;
   padding: 50px;
-  background-color: #f7f7f7;
 }
 
 #intro-container {
