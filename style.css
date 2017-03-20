@@ -18,9 +18,8 @@ body {
 }
 
 img {
+  float: left;
   border-radius: 65px;
-  display: block;
-  margin: auto 0;
 }
 
 h1 {
