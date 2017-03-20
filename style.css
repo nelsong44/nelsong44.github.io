@@ -20,7 +20,8 @@ body {
 img {
   float: left;
   border-radius: 65px;
-  padding: 5px 0 0 5px;
+  display: block;
+  margin: auto 0;
 }
 
 h1 {
